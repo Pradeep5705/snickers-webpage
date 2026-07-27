@@ -414,8 +414,9 @@ footer button:hover{
 
     nav ul{
         /* flex-direction:column; */
-        margin:20px 0;
+        margin:20px 0px;
         gap:15px;
+        font-size: 15px;
     }
 
     nav ul li a{

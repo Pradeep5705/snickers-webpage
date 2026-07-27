@@ -489,10 +489,13 @@ nav ul li a{
 footer{
     height:auto;
 }
+.se1{
+    margin-top: -18px;
+}
 
 .cnt1{
     position:absolute;
-    bottom:25%;
+    bottom:32%;
     left:20px;
     right:20px;
     margin:0;
